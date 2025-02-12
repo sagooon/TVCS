@@ -1,4 +1,6 @@
 ### Thrust Vector Control with PID Implementation
+![TVCS Illustration](https://github.com/sagooon/TVCS/blob/main/tvcs_illustration.jpg)
+
 ### **1. Header Includes**
 ```cpp
 #include <chrono>
